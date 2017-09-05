@@ -1,0 +1,2 @@
+This is some sample text designed to kickoff a build
+on my Jenkins Server automatically.
